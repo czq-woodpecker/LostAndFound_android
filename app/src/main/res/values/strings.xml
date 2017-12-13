@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">LostAndFound</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+
+    <string name="tab_menu_alert">提醒</string>
+    <string name="tab_menu_profile">信息</string>
+    <string name="tab_menu_pay">我的</string>
+    <string name="tab_menu_setting">设置</string>
+
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+
+    <string-array name="sortarr">
+        <item>一卡通</item>
+        <item>手机</item>
+        <item>身份证</item>
+        <item>书包</item>
+        <item>书</item>
+        <item>水瓶</item>
+        <item>耳机</item>
+        <item>其他</item>
+    </string-array>
+
+
+</resources>

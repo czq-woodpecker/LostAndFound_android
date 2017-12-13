@@ -1,0 +1,31 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <!--xmlns:app="http://schemas.android.com/apk/res-auto"-->
+    <!--xmlns:tools="http://schemas.android.com/tools" tools:context=".HomeActivity">-->
+    <!--<item android:id="@+id/action_settings" android:title="@string/action_settings"-->
+        <!--android:orderInCategory="100" app:showAsAction="never" />-->
+
+    <item
+        android:id="@+id/action_search"
+        android:title="search"
+        android:icon="@drawable/search"
+        app:showAsAction="always"
+        />
+
+    <item
+        android:id="@+id/action_test1"
+        android:title="test1"
+        />
+    <item
+        android:id="@+id/action_test2"
+        android:title="test2"
+        />
+    <item
+        android:id="@+id/action_test3"
+        android:title="test3"
+        />
+    <item
+        android:id="@+id/action_test4"
+        android:title="test4"
+        />
+</menu>
